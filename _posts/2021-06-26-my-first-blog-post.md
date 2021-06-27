@@ -1,5 +1,5 @@
 ---
-title: FIRST POST
+title: "FIRST POST"
 date: 2021-06-26
 ---
 ## Birthday!
